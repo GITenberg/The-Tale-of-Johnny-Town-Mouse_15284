@@ -1,0 +1,51 @@
+_repo: The-Tale-of-Johnny-Town-Mouse_15284
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15284-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Heelis, Beatrix
+    - Potter, Helen Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: "The Tale of Johnny Town-Mouse is a children's book written and illustrated\
+  \ by Beatrix Potter and first published by Frederick Warne & Co. in December 1918.\
+  \ The tale is based on the Aesop fable, \"The Town Mouse and the Country Mouse\"\
+  , with details taken from Horace's Satires 2.6.79-117. It tells of a country mouse\
+  \ and a city mouse who visit each other in their respective homes. After sampling\
+  \ the other's way of life, both express a decided preference for their own. The\
+  \ book was critically well received. The Johnny Town-mouse character appeared in\
+  \ a 1971 ballet film, and the tale has been adapted to a BBC television animated\
+  \ series.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2005-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15284'
+  lccn: '66004164'
+  wikidata: Q6621583
+language: en
+publication_note: "Frederick Warne & Co., Inc.\r\nNew York\r\n1918"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mice -- Fiction'
+- !lcsh 'Folklore'
+- !lcc 'PZ'
+- !lcsh 'Fables'
+summary: After visiting each other’s homes, Johnny Town-Mouse and Timmy Willy who
+  lives in the country, decide that they prefer their own place.
+title: The Tale of Johnny Town-Mouse
+url: http://www.gutenberg.org/ebooks/15284
+wikipedia:
+- https://en.wikisource.org/wiki/The_Tale_of_Johnny_Town-Mouse
+- https://en.wikipedia.org/wiki/The_Tale_of_Johnny_Town-Mouse
+- https://commons.wikimedia.org/wiki/Category:The_Tale_of_Johnny_Town-Mouse
+- https://id.wikipedia.org/wiki/The_Tale_of_Johnny_Town-Mouse
